@@ -79,41 +79,7 @@ icons
 
 ## Pre-requisites
 
-### 1. Install Obsidian
-
-<details>
-  <summary>Install with home-manager:</summary>
-
-```nix
-{
-  pkgs,
-  ...
-}:
-{
-  home.packages = builtins.attrValues { inherit (pkgs) obsidian obsidian-export; };
-}
-```
-
-</details>
-
-### 2. Install Zotero
-
-<details>
-  <summary>Install with home-manager:</summary>
-
-```nix
-{
-  pkgs,
-  ...
-}:
-{
-  home.packages = builtins.attrValues { inherit (pkgs) zotero; };
-}
-```
-
-</details>
-
-### 3. Overlay NUR onto nixpkgs, and allow unfree packages
+### 1. Overlay NUR onto nixpkgs, and allow unfree packages
 
 <details>
   <summary>Overlay:</summary>
@@ -135,6 +101,40 @@ inputs = {
   overlays = [ inputs.nur.overlay ];
 })
 ...
+```
+
+</details>
+
+### 2. Install Obsidian
+
+<details>
+  <summary>Install with home-manager:</summary>
+
+```nix
+{
+  pkgs,
+  ...
+}:
+{
+  home.packages = builtins.attrValues { inherit (pkgs) obsidian obsidian-export; };
+}
+```
+
+</details>
+
+### 3. Install Zotero
+
+<details>
+  <summary>Install with home-manager:</summary>
+
+```nix
+{
+  pkgs,
+  ...
+}:
+{
+  home.packages = builtins.attrValues { inherit (pkgs) zotero; };
+}
 ```
 
 </details>
