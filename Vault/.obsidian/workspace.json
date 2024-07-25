@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "6c887414358575d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cafb35fc18b94548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe624c202c616882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Literature/@AttentionIsAllYouNeed2023.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae09ab4c3f46904a",
+    "type": "split",
+    "children": [
+      {
+        "id": "199ba83412b9f00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c8574bc4d2efba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8ebbfc5a348815e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abff584c7e6a9125",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fba6a4dec192670",
+    "type": "split",
+    "children": [
+      {
+        "id": "461c7b8a8f6926c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb2624c3062e12f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 - Literature/@AttentionIsAllYouNeed2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68d735652618a78e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 - Literature/@AttentionIsAllYouNeed2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1fb42627b30e9b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88cfd0735157f5ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - Literature/@AttentionIsAllYouNeed2023.md"
+              }
+            }
+          },
+          {
+            "id": "c25b955f44ef6778",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "cef52ab6d76bef84",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fbff1eee6643b65",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4acb27b30ecdc074",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1159161128655dc3",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-omnivore:Omnivore": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "fe624c202c616882",
+  "lastOpenFiles": [
+    "00 - Maps/To Read.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-07-24 19.08.18.excalidraw.md",
+    "Excalidraw",
+    "03 - Resources/Omnivore/2024-07-24/Should you learn C to -learn how the computer works--.md",
+    "03 - Resources/Omnivore/2024-07-24",
+    "03 - Resources/Omnivore",
+    "99 - Meta/00 - Templates/00 - Templater",
+    "99 - Meta/10 - Generated/Literature Notes/Summary Table.md",
+    "05 - Literature/@AttentionIsAllYouNeed2023.md",
+    "99 - Meta/10 - Generated/Literature Notes/Index.md",
+    "99 - Meta/10 - Generated/Literature Notes/Summarizer.md",
+    "05 - Literature Notes/@AttentionIsAllYouNeed2023.md",
+    "05 - Literature Notes",
+    "99 - Meta/10 - Generated/Attachments",
+    "07 - Archives",
+    "06 - Permanent",
+    "05 - Literature",
+    "04 - Fleeting",
+    "50 Literature Notes/@GPT-4TechnicalReport2024.md",
+    "99 - Meta/00 - Templates/01 - Zotero/zotero-intergration-literature-note.md",
+    "99 - Meta/10 - Generated/Literature Notes/Literature Summary Table.md",
+    "Untitled.md",
+    "07 - Archives/Prompts/Zotero/Claude 3.5.md",
+    "50 Literature Notes/Literature Summary Table.md",
+    "Literature Summary Table.md",
+    "10 Notes/Nix.md",
+    "40 Encrypted/Untitled 20240723 113321.md",
+    "80 Meta/81 Zotero/zotero-integration-template.md",
+    "smart-chats/UNTITLED CHAT 2024-07-24 04 39 15.md",
+    "2024-07-23.md",
+    "Welcome.md",
+    "vaswaniAttentionAllYou2023.md",
+    "GettingStartedMarkdown.md"
+  ]
+}

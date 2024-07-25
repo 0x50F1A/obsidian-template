@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Vanilla AMOLED",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,JetBrains Mono,Inter",
+  "interfaceFontFamily": "SFProDisplay Nerd Font,SF Pro Display",
+  "textFontFamily": "Lexend,Lexend Exa,SFProDisplay Nerd Font,Inter",
+  "enabledCssSnippets": [
+    "zotero-read-status",
+    "Colored Sidebar Items",
+    "Notebook Backgrounds"
+  ],
+  "baseFontSize": 16
+}

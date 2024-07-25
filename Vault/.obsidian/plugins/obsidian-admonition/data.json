@@ -1,0 +1,62 @@
+{
+  "userAdmonitions": {
+    "synth": {
+      "type": "synth",
+      "color": "95, 193, 87",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Synthesis",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "md": {
+      "type": "md",
+      "color": "183, 81, 230",
+      "icon": {
+        "name": "info-circle",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Metadata",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "auth": {
+      "type": "auth",
+      "color": "134, 252, 254",
+      "icon": {
+        "name": "people-carry",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Authors",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.c5afdd"
+}

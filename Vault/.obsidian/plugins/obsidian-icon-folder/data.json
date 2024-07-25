@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSettings",
+      "LiArchive",
+      "LiBookKey",
+      "LiBookOpen",
+      "LiPencil"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "00 - Maps": "BoBxGlobeAlt",
+  "01 - Projects": "BoBxNetworkChart",
+  "02 - Areas": "BoBxsShareAlt",
+  "03 - Resources": "BoBxPackage",
+  "04 - Fleeting": "LiPencil",
+  "05 - Literature": "LiBookOpen",
+  "06 - Permanent": "LiBookKey",
+  "07 - Archives": "LiArchive",
+  "99 - Meta": "LiSettings"
+}
